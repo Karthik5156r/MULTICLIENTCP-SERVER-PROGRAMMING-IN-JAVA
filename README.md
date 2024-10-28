@@ -1,0 +1,1 @@
+The communication between different processes on the same nodes or different nodes in a network is done using the concept of a socket. A socket is a structure that allows communication between processes (of the same or different machines) i.e. sending and receiving data over a network.
